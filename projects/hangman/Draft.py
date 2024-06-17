@@ -12,6 +12,4 @@ def display_word(secret_word : str, suggested_letters : list[str]) -> bool :
 def main():
     pass
 if __name__ == "__main__" : 
-    main()  
-
-    eff
+    main()
