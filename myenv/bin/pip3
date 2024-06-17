@@ -1,4 +1,4 @@
-#!/home/appikal/LGG-Thomas4-Kyllian/01-TheField/02-Python/02-PythonAdvanced/05-Scraping/myenv/bin/python3
+#!/home/appikal/LGG-Thomas4-Kyllian/myenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
